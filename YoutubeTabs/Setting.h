@@ -2,8 +2,7 @@
 //  Setting.h
 //  YoutubeTabs
 //
-//  Created by Anil Singh Bisht on 24/06/17.
-//  Copyright © 2017 soarlogic. All rights reserved.
+//  Created by Pankaj Negi on 16/06/17.
 //
 
 #import <Foundation/Foundation.h>
